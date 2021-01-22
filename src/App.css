@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* ThroughtApps CSS */
+
+Select{
+  color:white !important;
+  border-color: white !important;
+  background-color: white !important;
+
+}
+
+FormControl{
+  color:white !important;
+  border-color: white !important;
+  background-color: white !important;
+}
